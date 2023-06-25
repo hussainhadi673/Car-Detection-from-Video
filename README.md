@@ -1,6 +1,12 @@
 # Car Detection From Video
 
+Result of this project can be seen at https://drive.google.com/file/d/1-dHGsylTrBtYmMaoLLSOlWn9L2nwCn0o/view?usp=sharing
+
 ## Setup
+If you just have run inference on model skip section 3 and 4 and directly jump to section 5 after successfully running section and 1 and 2. 
+Before Running inference download the trained weights of the model that are available on the link:
+https://drive.google.com/file/d/11LFp6YBL0B-NI75Wnupd0naitMncY95Z/view?usp=sharing
+and paste it ./yolov5/Trained_Model/ directory of the code.
 
 1. Clone repository:
     ```bash
